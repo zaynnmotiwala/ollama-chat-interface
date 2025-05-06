@@ -31,9 +31,9 @@ This guide helps you understand, configure, and extend the Ollama-powered Chainl
 1.**Clone the Repository**
 
 ```bash
-git clone https://github.com/EliAbdiel/ollama-chat-application.git
+git clone https://github.com/zaynnmotiwala/ollama-chat-interface.git
 
-cd ollama-chat-application
+cd ollama-chat-interface
 ```
 
 2.**Install dependencies**
@@ -332,7 +332,7 @@ You can tweak these without code changes to adjust the front-end experience and 
 
 >Railway is an all-in-one intelligent cloud provider that makes it easy to provision infrastructure, develop locally, and deploy to the cloud.
 
-To get started deploying your *ollama chat application*, it is recommended to [forking](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) the previously configure [chainlit app](https://github.com/EliAbdiel/ollama-chat-application.git) repository so that you can follow along.
+To get started deploying your *ollama chat application*, it is recommended to [forking](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) the previously configure [chainlit app](https://github.com/zaynnmotiwala/ollama-chat-interface.git) repository so that you can follow along.
 
 First make a [new project](https://docs.railway.com/overview/the-basics#project--project-canvas).
 
