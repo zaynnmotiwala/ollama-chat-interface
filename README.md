@@ -8,16 +8,6 @@ Ollama Chat Interface is a ChatGPT-style web app that lets you talk to several l
 
 Conversations are stored in PostgreSQL, so you can sign in with GitHub, leave, and pick up any past chat where you left off.
 
-| Sign in | Choose a model |
-|:---:|:---:|
-| ![Login](public/gif/login.gif) | ![Chat profile](public/gif/chat-profile.gif) |
-| **Connect an MCP server** | **MCP server connected** |
-| ![MCP connection](public/gif/mcp-connection.gif) | ![GitHub MCP connected](public/gif/github-mcp.gif) |
-| **Web search via Tavily MCP** | **Repo actions via GitHub MCP** |
-| ![Tavily MCP](public/gif/tavily-mcp-server.gif) | ![GitHub MCP server](public/gif/github-mcp-server.gif) |
-
----
-
 ## Features
 
 - **8 cloud models in one UI.** Switch between Gemma 4, GPT-OSS, DeepSeek-V3.2, Qwen 3.5, Kimi-K2.5, GLM-5.1, MiniMax-M2.7, and Mistral-Large-3 using chat profiles.
